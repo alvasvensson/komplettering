@@ -1,0 +1,15 @@
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\bin\Debug\net6.0\komplettering.exe
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\bin\Debug\net6.0\komplettering.deps.json
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\bin\Debug\net6.0\komplettering.runtimeconfig.json
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\bin\Debug\net6.0\komplettering.dll
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\bin\Debug\net6.0\komplettering.pdb
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\komplettering.csproj.AssemblyReference.cache
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\komplettering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\komplettering.AssemblyInfoInputs.cache
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\komplettering.AssemblyInfo.cs
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\komplettering.csproj.CoreCompileInputs.cache
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\komplettering.dll
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\refint\komplettering.dll
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\komplettering.pdb
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\komplettering.genruntimeconfig.cache
+C:\Users\alva.svensson3\Documents\programmering\komplettering\komplettering\komplettering\obj\Debug\net6.0\ref\komplettering.dll
